@@ -1,2 +1,2 @@
 # python-bootcamp
-Practice python
+This repository is to maintain the code and practice done meanwhile Bootcamp Python is ongoing
